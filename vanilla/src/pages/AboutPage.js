@@ -18,7 +18,6 @@ export default class AboutPage extends Component {
       <h1>{{title}}</h1>
       <small>{{description}}</small>
       <hr />
-
       </div>
     `;
 
