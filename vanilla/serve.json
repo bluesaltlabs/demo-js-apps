@@ -1,5 +1,6 @@
 {
   "renderSingle": true,
+  "directoryListing": false,
   "headers": [
     {
       "source" : "./**/*.@(js)",
