@@ -9,7 +9,8 @@ Attempting to build a simple SPA using various JavaScript frameworks.
 |Language|Status|
 |--------|------|
 |Vanilla JavaScript|In Progress|
-|React|Not Started|
+|React|In Progress|
+|Next.js|Not Started|
 |Vue|Not Started|
 |Angular|Not Started|
 |Lit|Not Started|
